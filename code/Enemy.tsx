@@ -47,9 +47,9 @@ export function getEnemyClanIcon(type: EnemyClanType): String {
 export function generateEnemies(): EnemyType[] {
     const enemies = []
     for (var i = 0; i < 40; i++) {
-        if (i < 23) {
+        if (i < 24) {
             enemies.push(EnemyType.INSURGENT) // count of 24
-        } else if (i < 31) {
+        } else if (i < 32) {
             enemies.push(EnemyType.INFANTRY) // count of 8
         } else {
             enemies.push(EnemyType.BOMBER) // count of 8
