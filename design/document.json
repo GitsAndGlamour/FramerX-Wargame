@@ -1,0 +1,1039 @@
+{
+  "root" : {
+    "__class" : "RootNode",
+    "children" : [
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "children" : [
+          {
+            "__class" : "TextNode",
+            "autoSize" : true,
+            "bottom" : null,
+            "centerAnchorX" : 0.50416666666666665,
+            "centerAnchorY" : 0.12555555555555556,
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : null,
+            "exportOptions" : [
+
+            ],
+            "height" : 76,
+            "heightType" : 0,
+            "id" : "gcvJWC_Gu",
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "svO6pRQoc",
+            "right" : 533,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(0, 0, 0)",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "FONT:GF;Coda Caption-800",
+                      "SIZE:64"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 7,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 7,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 7,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 7,
+                      "offset" : 0,
+                      "style" : "FONT:GF;Coda Caption-800"
+                    },
+                    {
+                      "length" : 7,
+                      "offset" : 0,
+                      "style" : "SIZE:64"
+                    }
+                  ],
+                  "key" : "12nej",
+                  "text" : "Wargame",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"12nej-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"12nej-0-0\" style=\"tab-size:4;user-select:none;font-family:&quot;Coda Caption&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:64px;letter-spacing:0px;line-height:1.2;font-weight:800;font-style:normal\"><span data-text=\"true\">Wargame<\/span><\/span><\/div>",
+                "os" : "macos 10_15 framerx",
+                "size" : {
+                  "height" : 76,
+                  "width" : 362
+                },
+                "width" : 0
+              },
+              "entityMap" : {
+
+              }
+            },
+            "textVerticalAlignment" : "top",
+            "top" : 75,
+            "visible" : true,
+            "width" : 362,
+            "widthType" : 0
+          },
+          {
+            "__class" : "TextNode",
+            "autoSize" : true,
+            "bottom" : null,
+            "centerAnchorX" : 0.49965277777777778,
+            "centerAnchorY" : 0.32722222222222225,
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : null,
+            "exportOptions" : [
+
+            ],
+            "height" : 57,
+            "heightType" : 0,
+            "id" : "NW__tCtQG",
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "svO6pRQoc",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:GF;Coda Caption-800",
+                      "COLOR:rgb(0, 0, 0)",
+                      "SIZE:48",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 17,
+                      "offset" : 0,
+                      "style" : "FONT:GF;Coda Caption-800"
+                    },
+                    {
+                      "length" : 17,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 17,
+                      "offset" : 0,
+                      "style" : "SIZE:48"
+                    },
+                    {
+                      "length" : 17,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 17,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    }
+                  ],
+                  "key" : "4a2n9",
+                  "text" : "Number of players",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"4a2n9-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"4a2n9-0-0\" style=\"tab-size:4;user-select:none;font-family:&quot;Coda Caption&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:48px;letter-spacing:0px;line-height:1.2;font-weight:800;font-style:normal\"><span data-text=\"true\">Number of players<\/span><\/span><\/div>",
+                "os" : "macos 10_15 framerx",
+                "size" : {
+                  "height" : 57,
+                  "width" : 533
+                },
+                "width" : 0
+              },
+              "entityMap" : {
+
+              }
+            },
+            "textVerticalAlignment" : "top",
+            "top" : 266,
+            "visible" : true,
+            "width" : 533,
+            "widthType" : 0
+          },
+          {
+            "__class" : "TextNode",
+            "autoSize" : true,
+            "bottom" : 393,
+            "centerAnchorX" : 0.43402777777777779,
+            "centerAnchorY" : 0.53166666666666662,
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : null,
+            "exportOptions" : [
+
+            ],
+            "height" : 57,
+            "heightType" : 0,
+            "id" : "NOkcrBhri",
+            "isTarget" : false,
+            "left" : 453,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "svO6pRQoc",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:GF;Coda Caption-800",
+                      "COLOR:rgb(0, 0, 0)",
+                      "SIZE:48",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 11,
+                      "offset" : 0,
+                      "style" : "FONT:GF;Coda Caption-800"
+                    },
+                    {
+                      "length" : 11,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 11,
+                      "offset" : 0,
+                      "style" : "SIZE:48"
+                    },
+                    {
+                      "length" : 11,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 11,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    }
+                  ],
+                  "key" : "4luml",
+                  "text" : "Board setup",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"4luml-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"4luml-0-0\" style=\"tab-size:4;user-select:none;font-family:&quot;Coda Caption&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:48px;letter-spacing:0px;line-height:1.2;font-weight:800;font-style:normal\"><span data-text=\"true\">Board setup<\/span><\/span><\/div>",
+                "os" : "macos 10_15 framerx",
+                "size" : {
+                  "height" : 57,
+                  "width" : 344
+                },
+                "width" : 0
+              },
+              "entityMap" : {
+
+              }
+            },
+            "textVerticalAlignment" : "top",
+            "top" : null,
+            "visible" : true,
+            "width" : 344,
+            "widthType" : 0
+          },
+          {
+            "__class" : "TextNode",
+            "autoSize" : true,
+            "bottom" : 202,
+            "centerAnchorX" : 0.40937499999999999,
+            "centerAnchorY" : 0.74388888888888893,
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : null,
+            "exportOptions" : [
+
+            ],
+            "height" : 57,
+            "heightType" : 0,
+            "id" : "ffYRU0xZ_",
+            "isTarget" : false,
+            "left" : 453,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "svO6pRQoc",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:GF;Coda Caption-800",
+                      "COLOR:rgb(0, 0, 0)",
+                      "SIZE:48",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 8,
+                      "offset" : 0,
+                      "style" : "FONT:GF;Coda Caption-800"
+                    },
+                    {
+                      "length" : 8,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 8,
+                      "offset" : 0,
+                      "style" : "SIZE:48"
+                    },
+                    {
+                      "length" : 8,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 8,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    }
+                  ],
+                  "key" : "cqhg9",
+                  "text" : "Enemies?",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"cqhg9-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"cqhg9-0-0\" style=\"tab-size:4;user-select:none;font-family:&quot;Coda Caption&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:48px;letter-spacing:0px;line-height:1.2;font-weight:800;font-style:normal\"><span data-text=\"true\">Enemies?<\/span><\/span><\/div>",
+                "os" : "macos 10_15 framerx",
+                "size" : {
+                  "height" : 57,
+                  "width" : 273
+                },
+                "width" : 0
+              },
+              "entityMap" : {
+
+              }
+            },
+            "textVerticalAlignment" : "top",
+            "top" : null,
+            "visible" : true,
+            "width" : 273,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0.74513888888888891,
+            "centerAnchorY" : 0.32777777777777778,
+            "clip" : true,
+            "codeComponentIdentifier" : "@framer\/framer.default\/.\/Input.tsx_Input",
+            "codeComponentPackageVersion" : "1.71.0",
+            "codeComponentProps" : {
+              "backgroundColor" : "#EBEBEB",
+              "border" : "rgba(0,0,0,0)",
+              "borderWidth" : 1,
+              "bottomLeft" : 10,
+              "bottomRight" : 10,
+              "focusColor" : "#09F",
+              "focused" : false,
+              "font" : true,
+              "fontFamily" : "inconsolata",
+              "fontSize" : 15,
+              "fontWeight" : 600,
+              "isMixed" : false,
+              "multiLine" : false,
+              "padding" : 12,
+              "paddingBottom" : 12,
+              "paddingLeft" : 12,
+              "paddingPerSide" : false,
+              "paddingRight" : 12,
+              "paddingTop" : 12,
+              "password" : false,
+              "placeholder" : "",
+              "placeholderColor" : "#aaa",
+              "radius" : 10,
+              "textColor" : "#333",
+              "topLeft" : 10,
+              "topRight" : 10,
+              "value" : ""
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : [
+              "vCFy5v06g"
+            ],
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 48,
+            "heightType" : 0,
+            "id" : "zuqQvHte4",
+            "intrinsicHeight" : 50,
+            "intrinsicWidth" : 260,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "svO6pRQoc",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : 319,
+            "rotation" : 0,
+            "top" : 271,
+            "visible" : true,
+            "width" : 96,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : 393,
+            "centerAnchorX" : 0.6743055555555556,
+            "centerAnchorY" : 0.53833333333333333,
+            "clip" : true,
+            "codeComponentIdentifier" : "@framer\/framer.default\/.\/SegmentedControl.tsx_SegmentedControl",
+            "codeComponentPackageVersion" : "1.71.0",
+            "codeComponentProps" : {
+              "activeBackground" : "#ffffff",
+              "activeBorderColor" : "rgba(0, 0, 0, 0)",
+              "activeBorderSize" : 1,
+              "activeTextColor" : "var(--token-127c6826-e8e1-4f11-8bab-570b44c82a51, rgb(255, 60, 0)) \/* {\"name\":\"Wargame Red\"} *\/",
+              "bottomActiveBorderSize" : 1,
+              "bottomLeftBorderRadius" : 8,
+              "bottomRightBorderRadius" : 8,
+              "defaultSegment" : 1,
+              "direction" : "horizontal",
+              "disabled" : false,
+              "disabledBackground" : "#ebebeb",
+              "disabledBorderColor" : "rgba(0, 0, 0, 0)",
+              "disabledBorderSize" : 1,
+              "disabledTextColor" : "#AAAAAA",
+              "divider" : false,
+              "dividerColor" : "#ADADAD",
+              "font" : true,
+              "fontFamily" : "Inconsolata",
+              "fontSize" : 16,
+              "fontWeight" : 600,
+              "gap" : 0,
+              "inactiveBackground" : "rgba(0, 0, 0, 0)",
+              "inactiveBorderColor" : "rgba(0, 0, 0, 0)",
+              "inactiveBorderSize" : 1,
+              "inactiveTextColor" : "#BBBBBB",
+              "isMixedActiveBorder" : false,
+              "isMixedBorderRadius" : false,
+              "leftActiveBorderSize" : 1,
+              "radius" : 8,
+              "rightActiveBorderSize" : 1,
+              "segments" : [
+                {
+                  "enabled" : true,
+                  "type" : "string",
+                  "value" : "Standard"
+                },
+                {
+                  "enabled" : true,
+                  "type" : "string",
+                  "value" : "Varied"
+                },
+                {
+                  "enabled" : true,
+                  "type" : "string",
+                  "value" : "Randomized"
+                }
+              ],
+              "segmentTransition" : {
+                "damping" : 60,
+                "delay" : 0,
+                "duration" : 0.29999999999999999,
+                "ease" : [
+                  0.44,
+                  0,
+                  0.56000000000000005,
+                  1
+                ],
+                "mass" : 1,
+                "stiffness" : 500,
+                "type" : "spring"
+              },
+              "shadow" : true,
+              "slide" : true,
+              "topActiveBorderSize" : 1,
+              "topLeftBorderRadius" : 8,
+              "topRightBorderRadius" : 8,
+              "trackColor" : "#ebebeb",
+              "variant" : "active"
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : [
+              "AzDvMsQ1u"
+            ],
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 45,
+            "heightType" : 0,
+            "id" : "AMp0BjH52",
+            "intrinsicHeight" : 45,
+            "intrinsicWidth" : 300,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "svO6pRQoc",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : 319,
+            "rotation" : 0,
+            "top" : null,
+            "visible" : true,
+            "width" : 300,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : 211,
+            "centerAnchorX" : 0.76180555555555551,
+            "centerAnchorY" : 0.73888888888888893,
+            "clip" : true,
+            "codeComponentIdentifier" : "@framer\/framer.default\/.\/Checkbox.tsx_Checkbox",
+            "codeComponentPackageVersion" : "1.71.0",
+            "codeComponentProps" : {
+              "activeBackground" : "var(--token-127c6826-e8e1-4f11-8bab-570b44c82a51, rgb(255, 60, 0)) \/* {\"name\":\"Wargame Red\"} *\/",
+              "activeBorder" : "#0099ff",
+              "borderWidth" : 1,
+              "bottomLeft" : 6,
+              "bottomRight" : 6,
+              "checkSize" : 100,
+              "color" : "white",
+              "disabled" : false,
+              "hasBorder" : false,
+              "inactiveBackground" : "#F3F3F3",
+              "inactiveBorder" : "#F3F3F3",
+              "initialAnimation" : false,
+              "isChecked" : true,
+              "isMixed" : false,
+              "radius" : 6,
+              "topLeft" : 6,
+              "topRight" : 6,
+              "transition" : {
+                "duration" : 0.14999999999999999,
+                "ease" : [
+                  0.12,
+                  0.23000000000000001,
+                  0.5,
+                  1
+                ],
+                "type" : "tween"
+              }
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : [
+              "SCG5EjFCg"
+            ],
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 48,
+            "heightType" : 0,
+            "id" : "af65jevZ2",
+            "intrinsicHeight" : 20,
+            "intrinsicWidth" : 20,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "svO6pRQoc",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : 319,
+            "rotation" : 0,
+            "top" : null,
+            "visible" : true,
+            "width" : 48,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : 72,
+            "centerAnchorX" : 0.49965277777777778,
+            "centerAnchorY" : 0.89500000000000002,
+            "clip" : true,
+            "codeComponentIdentifier" : "@framer\/framer.default\/.\/Button.tsx_Button",
+            "codeComponentPackageVersion" : "1.71.0",
+            "codeComponentProps" : {
+              "alignment" : "center",
+              "bottomLeft" : 10,
+              "bottomRight" : 10,
+              "colorTransition" : {
+                "damping" : 60,
+                "delay" : 0,
+                "duration" : 0.29999999999999999,
+                "ease" : [
+                  0.44,
+                  0,
+                  0.56000000000000005,
+                  1
+                ],
+                "mass" : 1,
+                "stiffness" : 500,
+                "type" : "spring"
+              },
+              "defaultBackground" : "var(--token-127c6826-e8e1-4f11-8bab-570b44c82a51, rgb(255, 60, 0)) \/* {\"name\":\"Wargame Red\"} *\/",
+              "defaultTextColor" : "#ffffff",
+              "disabled" : false,
+              "disabledBackground" : "#f3f3f3",
+              "disabledTextColor" : "#AAAAAA",
+              "font" : true,
+              "fontFamily" : "inconsolata",
+              "fontSize" : 21,
+              "fontWeight" : 600,
+              "hoverBackground" : "#0077FF",
+              "hoverTextColor" : "#ffffff",
+              "isMixed" : false,
+              "padding" : 10,
+              "paddingBottom" : 0,
+              "paddingLeft" : 0,
+              "paddingPerSide" : false,
+              "paddingRight" : 0,
+              "paddingTop" : 0,
+              "pressedBackground" : "#0088FF",
+              "pressedTextColor" : "#ffffff",
+              "radius" : 10,
+              "scaleTransition" : {
+                "damping" : 30,
+                "delay" : 0,
+                "duration" : 0.29999999999999999,
+                "mass" : 1,
+                "stiffness" : 600,
+                "type" : "spring"
+              },
+              "shadow" : true,
+              "text" : "Continue",
+              "topLeft" : 10,
+              "topRight" : 10,
+              "variant" : "Default",
+              "whileHoverScale" : 1.1000000000000001,
+              "whileTapScale" : 0.94999999999999996
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : [
+              "OEvoLBLB5"
+            ],
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 45,
+            "heightType" : 0,
+            "id" : "IEfs91xul",
+            "intrinsicHeight" : 45,
+            "intrinsicWidth" : 135,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "svO6pRQoc",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : null,
+            "rotation" : 0,
+            "top" : null,
+            "visible" : true,
+            "width" : 135,
+            "widthType" : 0
+          }
+        ],
+        "clip" : true,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "duplicatedFrom" : null,
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "rgba(255,255,255,1)",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImageOriginalName" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "framePreset" : "MacBook_1440_900_pro",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 900,
+        "heightType" : 0,
+        "id" : "svO6pRQoc",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : null,
+        "isMaster" : false,
+        "isTarget" : false,
+        "left" : 0,
+        "locked" : false,
+        "name" : "Settings",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "ZVq0sPMsz",
+        "previewSettings" : null,
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : 0,
+        "visible" : true,
+        "width" : 1440,
+        "widthType" : 0
+      },
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "children" : [
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : 0,
+            "centerAnchorX" : 0.5,
+            "centerAnchorY" : 0.5,
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/BoardSetup.tsx_BoardSetup",
+            "codeComponentPackageVersion" : "1.71.0",
+            "codeComponentProps" : {
+              "players" : [
+                {
+                  "enabled" : true,
+                  "type" : "color",
+                  "value" : "var(--token-127c6826-e8e1-4f11-8bab-570b44c82a51, rgb(255, 60, 0)) \/* {\"name\":\"Wargame Red\"} *\/"
+                },
+                {
+                  "enabled" : true,
+                  "type" : "color",
+                  "value" : "var(--token-e0e52951-cb86-4e81-961c-d1542542d4fb, rgb(38, 201, 66)) \/* {\"name\":\"Wargame Green\"} *\/"
+                },
+                {
+                  "enabled" : true,
+                  "type" : "color",
+                  "value" : "var(--token-5289e774-6302-406f-9e11-07403c5fd186, rgb(46, 133, 255)) \/* {\"name\":\"Wargame Blue\"} *\/"
+                },
+                {
+                  "enabled" : true,
+                  "type" : "color",
+                  "value" : "var(--token-dbc1ea9c-05e8-4fc7-b747-14b1d538d18c, rgb(255, 213, 0)) \/* {\"name\":\"Wargame Yellow\"} *\/"
+                },
+                {
+                  "enabled" : true,
+                  "type" : "color",
+                  "value" : "var(--token-dd3710a1-59f4-494f-93f8-d871e5a5e1d3, rgb(0, 0, 0)) \/* {\"name\":\"Black\"} *\/"
+                }
+              ]
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : [
+              "z34MSKBZs"
+            ],
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 900,
+            "heightType" : 0,
+            "id" : "nxhY9juAC",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "left" : 0,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "P5RTc1E8S",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : 0,
+            "rotation" : 0,
+            "top" : 0,
+            "visible" : true,
+            "width" : 1440,
+            "widthType" : 0
+          }
+        ],
+        "clip" : true,
+        "codeOverrideEnabled" : true,
+        "codeOverrideFile" : ".\/App.tsx",
+        "constraintsLocked" : false,
+        "duplicatedFrom" : null,
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "rgba(255,255,255,1)",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImageOriginalName" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "framePreset" : "MacBook_1440_900_pro",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 900,
+        "heightType" : 0,
+        "id" : "P5RTc1E8S",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : null,
+        "isMaster" : false,
+        "isTarget" : false,
+        "left" : 1540,
+        "locked" : false,
+        "name" : "Board",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "ZVq0sPMsz",
+        "previewSettings" : null,
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : 0,
+        "visible" : true,
+        "width" : 1440,
+        "widthType" : 0
+      }
+    ],
+    "disableBackdropFilters" : false,
+    "duplicatedFrom" : null,
+    "guidesX" : [
+
+    ],
+    "guidesY" : [
+
+    ],
+    "homeNodeId" : null,
+    "id" : "ZVq0sPMsz",
+    "name" : null,
+    "originalid" : null,
+    "parentid" : null,
+    "tokens" : {
+      "127c6826-e8e1-4f11-8bab-570b44c82a51" : {
+        "__class" : "ColorTokenNode",
+        "id" : "127c6826-e8e1-4f11-8bab-570b44c82a51",
+        "name" : "Wargame Red",
+        "value" : "rgb(255, 60, 0)"
+      },
+      "5289e774-6302-406f-9e11-07403c5fd186" : {
+        "__class" : "ColorTokenNode",
+        "id" : "5289e774-6302-406f-9e11-07403c5fd186",
+        "name" : "Wargame Blue",
+        "value" : "rgb(46, 133, 255)"
+      },
+      "57905985-12ea-4f60-b7ee-bf1d92c6311f" : {
+        "__class" : "ColorTokenNode",
+        "id" : "57905985-12ea-4f60-b7ee-bf1d92c6311f",
+        "name" : "Wargame Dark Blue",
+        "value" : "rgb(25, 70, 134)"
+      },
+      "d6415620-8a1b-4881-b0a9-24ffb8455db4" : {
+        "__class" : "ColorTokenNode",
+        "id" : "d6415620-8a1b-4881-b0a9-24ffb8455db4",
+        "name" : "White",
+        "value" : "rgb(255, 255, 255)"
+      },
+      "dbc1ea9c-05e8-4fc7-b747-14b1d538d18c" : {
+        "__class" : "ColorTokenNode",
+        "id" : "dbc1ea9c-05e8-4fc7-b747-14b1d538d18c",
+        "name" : "Wargame Yellow",
+        "value" : "rgb(255, 213, 0)"
+      },
+      "dd3710a1-59f4-494f-93f8-d871e5a5e1d3" : {
+        "__class" : "ColorTokenNode",
+        "id" : "dd3710a1-59f4-494f-93f8-d871e5a5e1d3",
+        "name" : "Black",
+        "value" : "rgb(0, 0, 0)"
+      },
+      "e0e52951-cb86-4e81-961c-d1542542d4fb" : {
+        "__class" : "ColorTokenNode",
+        "id" : "e0e52951-cb86-4e81-961c-d1542542d4fb",
+        "name" : "Wargame Green",
+        "value" : "rgb(38, 201, 66)"
+      }
+    },
+    "tokensIndex" : [
+      "127c6826-e8e1-4f11-8bab-570b44c82a51",
+      "5289e774-6302-406f-9e11-07403c5fd186",
+      "e0e52951-cb86-4e81-961c-d1542542d4fb",
+      "dbc1ea9c-05e8-4fc7-b747-14b1d538d18c",
+      "d6415620-8a1b-4881-b0a9-24ffb8455db4",
+      "dd3710a1-59f4-494f-93f8-d871e5a5e1d3",
+      "57905985-12ea-4f60-b7ee-bf1d92c6311f"
+    ],
+    "visible" : false
+  },
+  "version" : 66
+}
